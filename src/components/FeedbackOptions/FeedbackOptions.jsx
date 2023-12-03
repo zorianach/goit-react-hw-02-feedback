@@ -24,26 +24,3 @@ FeedbackOptions.propTypes = {
 export default FeedbackOptions;
 
 
-
-
-{/* <ButtonGood
-type="button"
-onClick={() => onLeaveFeedback({goodOption})}
-key={goodOption}
->
-Good
-</ButtonGood>
-<ButtonNeutral
-type="button"
-onClick={() => onLeaveFeedback}
-key={neutralOption+1}
->
-Neutral
-</ButtonNeutral>
-<ButtonBad
-type="button"
-onClick={onLeaveFeedback}
-key={badOption+2}
->
-Bad
-</ButtonBad> */}
