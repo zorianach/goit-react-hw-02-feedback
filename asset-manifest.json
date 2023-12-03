@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zorianach/goit-react-hw-02-feedback/static/css/main.6708429b.css",
-    "main.js": "/zorianach/goit-react-hw-02-feedback/static/js/main.f6257d6a.js",
-    "index.html": "/zorianach/goit-react-hw-02-feedback/index.html",
-    "main.6708429b.css.map": "/zorianach/goit-react-hw-02-feedback/static/css/main.6708429b.css.map",
-    "main.f6257d6a.js.map": "/zorianach/goit-react-hw-02-feedback/static/js/main.f6257d6a.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.6708429b.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.c27ad42e.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.6708429b.css.map": "/goit-react-hw-02-feedback/static/css/main.6708429b.css.map",
+    "main.c27ad42e.js.map": "/goit-react-hw-02-feedback/static/js/main.c27ad42e.js.map"
   },
   "entrypoints": [
     "static/css/main.6708429b.css",
-    "static/js/main.f6257d6a.js"
+    "static/js/main.c27ad42e.js"
   ]
 }
